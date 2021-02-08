@@ -5,9 +5,8 @@ h1 { color: red;
     background-color:rosybrown;
 }
 :root {
-    font-family:'Courier New', Courier, monospace, sans-serif;
+    font-family:'Courier New';
     color rosybrown;
-   
 
 .banner * {
     font-size: inherit;
