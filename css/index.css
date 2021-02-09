@@ -4,6 +4,10 @@ h1 { color: red;
 :root {
     background-color:rosybrown;
 }
+body {
+    max-width: 980px;
+    margin: auto;
+}
 }
 .social-icons {
     justify-content: flex-end;
