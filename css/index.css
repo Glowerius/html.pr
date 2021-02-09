@@ -4,10 +4,39 @@ h1 { color: red;
 :root {
     background-color:rosybrown;
 }
-:root {
-    font-family:'Courier New';
-    color rosybrown;
-
-.banner * {
-    font-size: inherit;
 }
+.social-icons {
+    justify-content: flex-end;
+    align-content: flex-start;
+}
+.social-icons img {
+    width: 40px;
+}
+
+.languages{
+    display: flex;
+    padding: 0px 0px 0px 15px;
+}
+.contact {
+    color: red;
+}
+
+.lng-img {
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+}
+.banner {
+    margin: 5px 0;
+}
+.banner {
+    display: flex;
+}
+.banner {
+    height:250px;
+    font-size: 25px;
+    font-weight:250;
+    background-color: rgba(106, 107, 110, 0.527);
+    padding: 40px 40px 1px 80px;
+
+
