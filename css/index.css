@@ -3,14 +3,12 @@ h1 { color: red;
 }
 h2 {
     color: azure;
-}
-h2{
     margin-left: 43%;
     margin-right: 57%;
     width: 500px;
     font-size:50px;
-    
 }
+
 :root {
     background-color:rosybrown;
 }
