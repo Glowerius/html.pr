@@ -39,4 +39,9 @@ body {
     font-size: 25px;
     font-weight:250;
     padding: 40px 40px 1px 80px;
-
+ .promo {
+    margin-left: 43%;
+    margin-right: 57%;
+    width: 500px;
+    font-size:50px;
+}
