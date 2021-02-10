@@ -17,10 +17,6 @@ body {
     width: 40px;
 }
 
-.languages{
-    display: flex;
-    padding: 0px 0px 0px 15px;
-}
 .contact {
     color: red;
 }
@@ -29,12 +25,6 @@ body {
     border-radius: 5px;
     width: 40px;
     height: 40px;
-}
-.banner {
-    margin: 5px 0;
-}
-.banner {
-    display: flex;
 }
 .banner {
     height:250px;
